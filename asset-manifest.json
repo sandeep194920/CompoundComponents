@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/CompoundComponents/static/css/main.64e075ef.chunk.css",
-    "main.js": "/CompoundComponents/static/js/main.73c1c3ed.chunk.js",
-    "main.js.map": "/CompoundComponents/static/js/main.73c1c3ed.chunk.js.map",
+    "main.css": "/CompoundComponents/static/css/main.ebab00ca.chunk.css",
+    "main.js": "/CompoundComponents/static/js/main.0b1f5215.chunk.js",
+    "main.js.map": "/CompoundComponents/static/js/main.0b1f5215.chunk.js.map",
     "runtime-main.js": "/CompoundComponents/static/js/runtime-main.0e0c7f81.js",
     "runtime-main.js.map": "/CompoundComponents/static/js/runtime-main.0e0c7f81.js.map",
-    "static/js/2.48d2583c.chunk.js": "/CompoundComponents/static/js/2.48d2583c.chunk.js",
-    "static/js/2.48d2583c.chunk.js.map": "/CompoundComponents/static/js/2.48d2583c.chunk.js.map",
+    "static/js/2.29529c13.chunk.js": "/CompoundComponents/static/js/2.29529c13.chunk.js",
+    "static/js/2.29529c13.chunk.js.map": "/CompoundComponents/static/js/2.29529c13.chunk.js.map",
     "index.html": "/CompoundComponents/index.html",
-    "precache-manifest.2bb4a2185aab4e8bf369803c769b57af.js": "/CompoundComponents/precache-manifest.2bb4a2185aab4e8bf369803c769b57af.js",
+    "precache-manifest.c2601feecc96bc05ef18d6f9d5a550d8.js": "/CompoundComponents/precache-manifest.c2601feecc96bc05ef18d6f9d5a550d8.js",
     "service-worker.js": "/CompoundComponents/service-worker.js",
-    "static/css/main.64e075ef.chunk.css.map": "/CompoundComponents/static/css/main.64e075ef.chunk.css.map",
-    "static/js/2.48d2583c.chunk.js.LICENSE.txt": "/CompoundComponents/static/js/2.48d2583c.chunk.js.LICENSE.txt"
+    "static/css/main.ebab00ca.chunk.css.map": "/CompoundComponents/static/css/main.ebab00ca.chunk.css.map",
+    "static/js/2.29529c13.chunk.js.LICENSE.txt": "/CompoundComponents/static/js/2.29529c13.chunk.js.LICENSE.txt",
+    "static/media/despicable-me.jpg": "/CompoundComponents/static/media/despicable-me.b8e99074.jpg",
+    "static/media/joker.jpg": "/CompoundComponents/static/media/joker.29a0a617.jpg",
+    "static/media/the-prestige.jpg": "/CompoundComponents/static/media/the-prestige.26e68432.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e0c7f81.js",
-    "static/js/2.48d2583c.chunk.js",
-    "static/css/main.64e075ef.chunk.css",
-    "static/js/main.73c1c3ed.chunk.js"
+    "static/js/2.29529c13.chunk.js",
+    "static/css/main.ebab00ca.chunk.css",
+    "static/js/main.0b1f5215.chunk.js"
   ]
 }
